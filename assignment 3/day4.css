@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.parent1{
+    width:100%;
+
+    background-color:indigo;
+    display:flex;
+    justify-content:space-evenly;
+ 
+
+ }
+ .child
+{   height:200px;
+    width:15%;
+    background-color: red;
+    
+}  
+.parent2{
+    width:100%;
+
+    background-color:black;
+   
+    
+    
+
+ }
+ .child2
+{   height:200px;
+    width:20%;
+    margin-left:4%;
+    background-color:gray;
+    display:inline-block;
+}  
